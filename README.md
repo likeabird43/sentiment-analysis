@@ -1,6 +1,5 @@
 # Amazon Reviews Analysis
 <br><br> <!-- One line breaks -->
-
 # 📌 Project Overview
 
 This project analyzes Amazon product reviews to uncover insights about customer sentiment, ratings, and trends. Using Python, NLP, and data visualization, we explore key patterns in user feedback to better understand consumer behavior.
